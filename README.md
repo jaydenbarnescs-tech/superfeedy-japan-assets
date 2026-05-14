@@ -1,0 +1,1 @@
+# superfeedy-japan-assets
