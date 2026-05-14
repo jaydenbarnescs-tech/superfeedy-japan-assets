@@ -1,10 +1,8 @@
+# All media assets — stored locally only
+brand-assets/
+generated/
 
-# Instagram media library — stored locally only (too large for GitHub)
-brand-assets/instagram/superfeedy/*.mp4
-brand-assets/instagram/superfeedy/*.jpg
-brand-assets/instagram/superfeedy/*.jpeg
-brand-assets/instagram/superfeedy/*.png
-brand-assets/instagram/ugc/*.mp4
-brand-assets/instagram/ugc/*.jpg
-brand-assets/instagram/ugc/*.jpeg
-brand-assets/instagram/ugc/*.png
+# exported/ is tracked — needed for publish.py raw GitHub URLs
+
+# System
+.DS_Store
