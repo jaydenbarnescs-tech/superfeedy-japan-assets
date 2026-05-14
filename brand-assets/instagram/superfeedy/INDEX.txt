@@ -1,0 +1,19 @@
+SUPERFEEDY — @superfeedy Instagram Archive
+===========================================
+Downloaded: 2026-05-14
+Source: superfeedy Instagram account (official brand)
+
+789 files total
+  214 videos (.mp4) — Reels, product demos, lifestyle clips
+  575 images (.jpg/.png) — Product shots, UGC reposts, lifestyle
+
+Files are gitignored (1.1GB total) — stored locally only.
+Reference these for reel content, repost candidates, and caption research.
+
+FILENAME FORMAT:
+  superfeedy_[unix_timestamp]_[post_id]_[user_id].[ext]
+
+USAGE:
+  - Mine for reel content to repurpose for @superfeedy.japan
+  - Find highest-engagement posts for repost/adaptation
+  - Reference caption styles and hashtag strategy
